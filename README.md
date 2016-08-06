@@ -1,4 +1,4 @@
-** MongoDB Java Training - Code Playground**
+**MongoDB Java Training - Code Playground**
 
 Uses
 
